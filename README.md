@@ -12,5 +12,5 @@ This script installs and uses gcc, MySQL, Sqlite3, NodeJS, Nginx and Ruby on Rai
 
 Takes just over 6 minutes to complete.
 #### Notes
-The user password (line 6: DEPLOY\_PASSWORD) should be changed to a suitable Linux approved password.  
-The project is run in development mode (line 144, 145), to run in production, change the RAILS_ENV variable in those lines.
+The user password (line 6: `DEPLOY\_PASSWORD`) should be changed to a suitable Linux approved password.  
+The project is run in development mode (line 144, 145), to run in production, change the `RAILS_ENV` variable in those lines.
